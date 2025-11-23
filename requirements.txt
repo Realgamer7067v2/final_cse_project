@@ -1,0 +1,6 @@
+paddleocr
+pillow
+numpy
+opencv-python
+# add the translation library used in translate.py if needed, e.g.:
+# googletrans==4.0.0rc1
